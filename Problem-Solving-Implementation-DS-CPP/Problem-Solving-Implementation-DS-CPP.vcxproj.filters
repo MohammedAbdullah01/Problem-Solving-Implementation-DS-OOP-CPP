@@ -19,6 +19,15 @@
     <Filter Include="Header Files\Queue">
       <UniqueIdentifier>{3f2b3018-2a04-40bf-b71b-c218f466900b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Stack">
+      <UniqueIdentifier>{e888da19-f5e0-4606-8f25-ddd72db7884d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Daynamic Array">
+      <UniqueIdentifier>{efdb503a-5ddc-4ac7-bc95-4ca658d613d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\String Use Stack">
+      <UniqueIdentifier>{e8712715-db80-4791-a28f-ec68a1168862}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem-Solving-Implementation-DS-CPP.cpp">
@@ -27,10 +36,25 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="clsDbLinkedList.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Double Linked List</Filter>
     </ClInclude>
     <ClInclude Include="clsMyQueue.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyStack.h">
+      <Filter>Header Files\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDynamicArray.h">
+      <Filter>Header Files\Daynamic Array</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyQueueUseArray.h">
+      <Filter>Header Files\Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyStackUseArray.h">
+      <Filter>Header Files\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMyStringUseStack.h">
+      <Filter>Header Files\String Use Stack</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
