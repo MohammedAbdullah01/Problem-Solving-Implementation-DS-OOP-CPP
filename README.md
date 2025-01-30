@@ -112,17 +112,5 @@ queueLine.ServeNextClient();
   - STL containers
   - Property accessors (`__declspec`)
 
-## License
-
-[Your License Here]
-
-## Contributing
-
-[Your Contributing Guidelines Here]
-
-## Author
-
-[Your Name Here]
-
 ---
 Feel free to report issues or suggest improvements through the GitHub issues system.
