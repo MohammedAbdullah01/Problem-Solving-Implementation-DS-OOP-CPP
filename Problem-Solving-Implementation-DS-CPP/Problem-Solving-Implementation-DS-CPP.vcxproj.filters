@@ -56,5 +56,11 @@
     <ClInclude Include="clsMyStringUseStack.h">
       <Filter>Header Files\String Use Stack</Filter>
     </ClInclude>
+    <ClInclude Include="clsQueueLine.h">
+      <Filter>Header Files\Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\BankingSystemConsoleApplicationOOP\BankingSystemConsoleApplicationOOP\clsDate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
